@@ -1,0 +1,5 @@
+m = input("Введите число:")
+a = int(m[0])
+b = int(m[1])
+c = int(m[2])
+print(a+b+c)
